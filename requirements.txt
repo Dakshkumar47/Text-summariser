@@ -1,0 +1,4 @@
+python == 3.3
+netwokx == 3.5
+numpy == 2.2.3
+scikit-learn == 1.7.0
